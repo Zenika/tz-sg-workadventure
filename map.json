@@ -52,7 +52,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Appuyer sur ESPACE pour entrer en backstage Merlion"
+                 "value":"Press SPACE to enter in Merlion backstage"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -80,7 +80,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Appuyer sur ESPACE pour entrer en backstage Orchid"
+                 "value":"Press SPACE to enter in Orchid backstage"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -164,7 +164,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Appuyer sur ESPACE pour entrer en backstage Zenika"
+                 "value":"Press SPACE to enter in Main backstage"
                 }],
          "type":"tilelayer",
          "visible":true,
