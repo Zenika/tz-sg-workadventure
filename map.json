@@ -192,7 +192,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Appuyer sur ESPACE pour entrer dans la zone Q&A Green IT"
+                 "value":"Press SPACE to enter in Networking Room1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -220,7 +220,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Appuyer sur ESPACE pour entrer dans la zone Q&A Orchid"
+                 "value":"Press SPACE to enter in the Orchid Q&A"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -248,7 +248,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Appuyer sur ESPACE pour entrer dans la zone Q&A Merlion"
+                 "value":"Press SPACE to enter in the Merlion Q&A"
                 }],
          "type":"tilelayer",
          "visible":true,
