@@ -452,7 +452,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/19927536.fs1.hubspotusercontent-na1.net\/hubfs\/19927536\/TZ%20Programme%20schedule.png"
+                 "value":"https:\/\/19927536.fs1.hubspotusercontent-na1.net\/hubfs\/19927536\/MainProgramme.pdf"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -648,7 +648,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/19927536.fs1.hubspotusercontent-na1.net\/hubfs\/19927536\/TZ%20Room%20Speaker%20-%20Orchid.png"
+                 "value":"https:\/\/19927536.fs1.hubspotusercontent-na1.net\/hubfs\/19927536\/TZ%20Room%20Speaker%20-%20Orchid%20full.pdf"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
